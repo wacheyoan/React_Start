@@ -1,3 +1,12 @@
+## Mon premier projet en React
+
+Premier projet en React vu en cours.
+J'ai appris entre autres à :
+  - Créer des components
+  - Créer une Promesse et donc une fonction asynchrone
+  - Utiliser le useState et le useEffect
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
